@@ -44,7 +44,6 @@
   width: 20px;
   height: 50px;
   background: url("https://i.imgur.com/WveiFXb.png") no-repeat;
-  display:none;
   background-size: 100%;
 }
 :root .layers-OrUESM::after {
@@ -53,7 +52,6 @@
   width: 25px;
   height: 25px;
   background: url("https://i.imgur.com/WBUag7e.png") no-repeat;
-  display:none;
   background-size: 100%;
 }
 :root .bg-1QIAus::after {
@@ -62,7 +60,6 @@
   width: 30px;
   height: 30px;
   background: url("https://i.imgur.com/aOYvahh.png") no-repeat;
-  display:none;
   background-size: 100%;
 }
 :root .bg-1QIAus::before {
